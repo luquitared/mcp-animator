@@ -2,6 +2,10 @@
 
 A starter template for building MCP (Model Context Protocol) servers. This boilerplate provides a clean foundation for creating your own MCP server that can integrate with Claude, Cursor, or other MCP-compatible AI assistants.
 
+<a href="https://glama.ai/mcp/servers/@luquitared/mcp-animator">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@luquitared/mcp-animator/badge" alt="Server Boilerplate MCP server" />
+</a>
+
 ## Purpose
 
 This boilerplate helps you quickly start building:
